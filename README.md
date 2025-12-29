@@ -1,4 +1,4 @@
-# 🛡️ Companion Sentinel: Public Intelligence Hub
+# Companion Sentinel: Public Intelligence Hub
 > **Next-gen security command plane for proactive origin forensics and AI-native infrastructure hardening.**
 
 [![Status: Operational](https://img.shields.io/badge/System-Operational-00ff00?style=for-the-badge&logo=statuspage)](https://the-companion.com)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Mission Control
+## Mission Control
 **Companion Sentinel** provides a single, high-fidelity source of truth for your entire server fleet. Our "Mission Control" aesthetic is designed for instant technical situational awareness.
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Intelligence Layer
+## Intelligence Layer
 Our proprietary agent executes deep technical audits that go beyond standard application-level security:
 
 ### 1. WordPress Origin Forensics
@@ -37,7 +37,7 @@ Our proprietary agent executes deep technical audits that go beyond standard app
 
 ---
 
-## 🔒 Security & Sovereignty
+## Security & Sovereignty
 Built on a **Zero-Knowledge Mesh**, Companion Sentinel ensures your technical secrets are impenetrable:
 *   **Encrypted Tunnels**: All telemetry is pushed via **TLS 1.3**; no inbound ports required.
 *   **Secrets Isolation**: User-provided AI keys are cryptographically locked using **AES-256-GCM**.
@@ -45,7 +45,7 @@ Built on a **Zero-Knowledge Mesh**, Companion Sentinel ensures your technical se
 
 ---
 
-## ⚡ Community Interaction
+## Community Interaction
 Use this repository's **Issue Tracker** to help refine the sentinel intelligence feed:
 
 *   **[Log a Technical Issue](https://github.com/BrandenNaidoo/Companion-Sentinel-Public/issues/new)**: Found a bug in the agent or dashboard?
@@ -54,7 +54,7 @@ Use this repository's **Issue Tracker** to help refine the sentinel intelligence
 
 ---
 
-## 🌎 Enterprise Marketplace
+## Enterprise Marketplace
 Ready to build a proactive security mesh?
 **[Initiate Production Deployment →](https://the-companion.com)**
 

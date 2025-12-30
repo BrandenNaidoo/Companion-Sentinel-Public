@@ -1,14 +1,14 @@
 # Companion Sentinel: Public Intelligence Hub
-> **Next-gen security command plane for proactive origin forensics and AI-native infrastructure hardening.**
+> **Unified security dashboard for Linux hardening and forensic auditing.**
 
 [![Status: Operational](https://img.shields.io/badge/System-Operational-00ff00?style=for-the-badge&logo=statuspage)](https://the-companion.com)
-[![Build: v1.0.0 Elite](https://img.shields.io/badge/Build-v1.0.0_Elite-blue?style=for-the-badge)](https://the-companion.com)
+[![Build: v1.0.0](https://img.shields.io/badge/Build-v1.0.0-blue?style=for-the-badge)](https://the-companion.com)
 [![Architecture: Zero--Knowledge](https://img.shields.io/badge/Architecture-Zero--Knowledge-purple?style=for-the-badge)](https://the-companion.com/docs)
 
 ---
 
 ## Mission Control
-**Companion Sentinel** provides a single, high-fidelity source of truth for your entire server fleet. Our "Mission Control" aesthetic is designed for instant technical situational awareness.
+**Companion Sentinel** provides a single view for your server fleet. Monitor system health, open ports, and file integrity in real-time.
 
 <p align="center">
   <img src="assets/dashboard-preview.png" alt="Companion Sentinel Mission Control" width="800px" style="border-radius: 24px; border: 1px solid rgba(255,255,255,0.1);">
@@ -17,7 +17,7 @@
 ---
 
 ## Intelligence Layer
-Our proprietary agent executes deep technical audits that go beyond standard application-level security:
+Our lightweight Bash agent performs root-level system audits:
 
 ### 1. WordPress Origin Forensics
 *   **Zero-Trust Malware Discovery**: Proactively scans the `wp-content` hierarchy for high-risk PHP patterns (`eval`, `base64_decode`) hidden within security plugins.
@@ -38,7 +38,7 @@ Our proprietary agent executes deep technical audits that go beyond standard app
 ---
 
 ## Security & Sovereignty
-Built on a **Zero-Knowledge Mesh**, Companion Sentinel ensures your technical secrets are impenetrable:
+Built on a **Zero-Knowledge Mesh**, Companion Sentinel ensures your technical secrets are encrypted by design:
 *   **Encrypted Tunnels**: All telemetry is pushed via **TLS 1.3**; no inbound ports required.
 *   **Secrets Isolation**: User-provided AI keys are cryptographically locked using **AES-256-GCM**.
 *   **One-Way Identification**: Personal Access Tokens (PAT) are stored exclusively as secure **SHA-256 hashes**.

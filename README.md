@@ -54,8 +54,8 @@ Use this repository's **Issue Tracker** to help refine the sentinel intelligence
 
 ---
 
-## Enterprise Marketplace
+## Marketplace
 Ready to build a proactive security mesh?
 **[Initiate Production Deployment →](https://the-companion.com)**
 
-&copy; 2025 Companion Sentinel. All Rights Reserved.
+&copy; 2026 Companion Sentinel. All Rights Reserved.
